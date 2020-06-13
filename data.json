@@ -1,0 +1,27 @@
+{
+    "personaldata":{
+        "name":"Rajesh Nalleboina",
+        "mobile":9100965113,
+        "email":"rajesh.n@apssdc.in"
+    },
+    "mydata":[
+        {
+            "name":"EVM College of Engineering(CSE)",
+            "percentage":82,
+            "yop":2010
+        },
+        {
+            "name":"Sri Chaitanya boys junior college(MPC)",
+            "percentage":92,
+            "yop":2008
+        },
+        {
+            "name":"ZPH School",
+            "percentage":95,
+            "yop":2006
+        }
+    ],
+    "carrier":{
+      "carr":"To associate with progressive organization that gives me a chance to update my skills according to latest trends"
+    }
+}
